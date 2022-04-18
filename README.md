@@ -3,6 +3,8 @@
 
 ![image](https://user-images.githubusercontent.com/50916640/163811455-0383ed64-71be-4091-9200-d22033e16bb5.png)
 
+![image](https://user-images.githubusercontent.com/50916640/163813113-9a02e6c6-0abd-4a2f-a3fc-d1dd6be65193.png)
+
 ## Функциональность
 * Регистрация
 * Авторизация
