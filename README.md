@@ -1,6 +1,8 @@
 # market
 ![image](https://user-images.githubusercontent.com/50916640/163809032-9d362294-df61-4dce-add1-daaae3001199.png)
 
+![image](https://user-images.githubusercontent.com/50916640/163811455-0383ed64-71be-4091-9200-d22033e16bb5.png)
+
 ## Функциональность
 * Регистрация
 * Авторизация
