@@ -157,6 +157,7 @@ public class ProductController {
             productDTO.getImage().transferTo(new File(uploadPath + "/" + productDTO.getImage().getOriginalFilename()));
         }
         productService.save(productDTO);
-        return "redirect:/products/page/{1}";
+
+        return "redirect:/products/page/" + 1;
     }
 }
